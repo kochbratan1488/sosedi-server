@@ -1,0 +1,7 @@
+{
+  "name": "sosedi-rossii-websocket",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start":"node server.js"},
+  "dependencies": {"ws":"^8.21.3"}
+}
